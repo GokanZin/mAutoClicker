@@ -1,0 +1,5 @@
+name: mAutoClicker
+version: '${project.version}'
+main: br.com.gokan.mautoclicker.Main
+commands:
+  autoclick:

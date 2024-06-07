@@ -1,0 +1,38 @@
+autoclicker:
+  time: 1 #delay de 1 segundo
+  raio: 1 #raio do autoclick
+  actionBar:
+    active: true
+
+Damages:
+  default: 5 # dano default
+  vip+: 15 #15 de dano
+  plus: 120 # 120 de dano
+
+#permissao mautoclick.damage.<nome>
+
+message:
+  active: 'AutoClick foi ligado'
+  desative: 'AutoClick foi desligado'
+
+
+gui:
+  nome: '&eAuto Click &8|&e Menu'
+  tamanho: 3
+  items:
+    active:
+      id: 397:3
+      nome: 'Deseja Ativar o AutoClick?'
+      texture: ''
+      lore:
+        - ''
+        - ''
+        - ''
+    desactive:
+      id: 397:3
+      nome: 'Deseja desativar o AutoClick?'
+      texture: ''
+      lore:
+        - ''
+        - ''
+        - ''
