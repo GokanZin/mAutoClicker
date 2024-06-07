@@ -1,7 +1,6 @@
 package br.com.gokan.mautoclicker.listener;
 
 import br.com.gokan.mautoclicker.Main;
-import br.com.gokan.mautoclicker.controller.AutoClickController;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
